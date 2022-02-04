@@ -25,7 +25,7 @@ humanReadable = web3.fromWei(balance,'ether')
 print('Ether balance: ', humanReadable)
 
 
-# WETH = web3.toChecksumAddress('0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c')   #WBNB
+# WETH = web3.toChecksumAddress('0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c')   #WETH
 # Polkadot = web3.toChecksumAddress('0x394a7017eafd9fd84840144dcfbbe3923ce5151a')   #Polkadot
 # UniSwap = web3.toChecksumAddress('0x1f9840a85d5af5bf1d1762f925bdaddc4201f984')   #UniSwap
 
