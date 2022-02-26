@@ -1,17 +1,16 @@
 # UniSwap-Trading-Bot
 
 
-Technologies Used:
-
-◼ Python
-
-◼ Web3
-
-
-Purpose:
+# Purpose:
 
 This Bot Allows you to Buy a Certain Token With Etherum for X amount that will be continuously Repeat with the time given.
 
+
+# Technologies Used:
+
+◼ Python - An interpreted, object-oriented, high-level programming language with dynamic semantics
+
+◼ Web3 - A Python library for interacting with Ethereum.
 
 
 
