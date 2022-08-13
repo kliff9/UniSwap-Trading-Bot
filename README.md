@@ -3,7 +3,7 @@
 
 # Purpose:
 
-This Bot Allows you to access tokens on the Uniswap blockchain network which allows you to make transactional purchases. This bot features an Automated Timer that automatically purchases X amount token of choice with the time given of your choice.  
+This Bot Allows you to access tokens on the Uniswap blockchain network which allows you to make transactional purchases. This bot features an Automated Timer that automatically purchases X amount token of choice with the time given of your choice. After making these transational purchases the User Would have successfully made their investment on Uniswap's platform.
 
 # Technologies Used:
 
